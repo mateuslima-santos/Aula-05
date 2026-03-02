@@ -20,3 +20,8 @@
 .flex{
     display: flex;
 }
+
+.right{
+    background-color: yellow;
+    padding-right: 80px;
+}
