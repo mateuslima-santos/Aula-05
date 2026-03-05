@@ -96,6 +96,16 @@
     height: 230px;
 }
 
+.bottom_20{
+    background-color: yellow;
+    height: 110px;
+}
+
+.bottom_20-2{
+    background-color: yellow;
+    height: 50px;
+}
+
 .xtra_margin{
     margin: -15px;
 }
